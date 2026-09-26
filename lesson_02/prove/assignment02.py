@@ -1,7 +1,7 @@
 """
 Course    : CSE 351
 Assignment: 02
-Student   : <your name here>
+Student   : <Kallen Joos>
 
 Instructions:
     - review instructions in the course
